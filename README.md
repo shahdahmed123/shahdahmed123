@@ -143,17 +143,6 @@ OCR + AI + Text-to-Speech Mobile Application.
 ---
 
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shahdahmed123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdahmed123&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
