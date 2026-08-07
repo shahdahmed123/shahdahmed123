@@ -59,7 +59,7 @@ My goal is to become a Cloud & DevOps Engineer capable of designing production-r
 ## AWS Certified Solutions Architect – Associate
 
 <p align="center">
-<img src="assets/assets/AWS Certified Solutions Architect - Associate certificate jpg.jpg" width="650">
+<img src="assets/aws_saa.jpg" width="650">
 </p>
 
 ---
