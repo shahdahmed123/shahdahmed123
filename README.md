@@ -59,7 +59,7 @@ My goal is to become a Cloud & DevOps Engineer capable of designing production-r
 ## AWS Certified Solutions Architect – Associate
 
 <p align="center">
-<img src="assets/aws-saa.png" width="650">
+<img src="assets/assets/AWS Certified Solutions Architect - Associate certificate jpg.jpg" width="650">
 </p>
 
 ---
@@ -67,7 +67,7 @@ My goal is to become a Cloud & DevOps Engineer capable of designing production-r
 ## NTI DevSecOps Scholarship
 
 <p align="center">
-<img src="assets/nti-devsecops.png" width="650">
+<img src="assets/pic-NTI Certification.jpg" width="650">
 </p>
 
 ---
@@ -86,7 +86,7 @@ Class of 2025
 
 📥 **Download My CV**
 
-➡️ **[Click Here](assets/cv.pdf)**
+➡️ **[Click Here](assets/Shahd_Ahmed_cv.pdf)**
 
 ---
 
@@ -168,7 +168,6 @@ OCR + AI + Text-to-Speech Mobile Application.
 
 💼 LinkedIn
 https://www.linkedin.com/in/shahd-ahmed-4b2a21231/
-
 
 💻 GitHub
 
